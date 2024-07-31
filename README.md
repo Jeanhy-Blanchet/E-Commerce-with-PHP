@@ -1,21 +1,20 @@
 E-Commerce Web
+
 # Introduction
 This Project covers creating an e-commerce site from scratch, using PHP and the Bootstrap framework.
 You will learn to present products online and configure website functionality, as well as essential open-source development software such as Xampp and the Atom editor.
  Shown how to download the XAMPP server and how to perform some configurations in the control panel.
  how to manually configure the port and local host settings in the httpd.conf file. 
+ 
+* The sample e-commerce website 'Red Stone Shop' is introduced.
 
-#The sample e-commerce website 'Red Stone Shop' is introduced.
-![Screenshot 2024-07-31 151120](https://github.com/user-attachments/assets/243dd118-eee8-4121-afe2-19123764fb94)
-![Screenshot 2024-07-31 151033](https://github.com/user-attachments/assets/5e7520eb-a3ac-420d-a838-c6b3a0d46f00)
-![Screenshot 2024-07-31 150927](https://github.com/user-attachments/assets/71be8a31-182a-4bac-8eb3-f9e970ecf832)
-
+#DESCRIPTION
 You were shown how to download the Atom editor and Bootstrap files, and you were introduced to the Atom interface.
 You were shown how to use the htdocs folder in the XAMPP server. 
 You were introduced to the different folders within Bootstrap, i.e. css, fonts and js, and how to copy these files into a created folder in htdocs.
 You were shown how to create the top navigation bar of the website and to link it to the index file (homepage). 
 In the Atom editor, we can access the server files and create the PHP index file, for the top navigation bar. 
-#Description
+
 Atom's powerful interface, indicates whether the code is correctly written or not.
 saw how a drop-down menu is created using classes, data, lists and anchor tags. 
 You learned how to insert comments effectively, to separate chunks of code, how to test what is written and correct errors. 
@@ -25,10 +24,12 @@ You learned how to add styles and selectors in the css file, and the importance 
 You learned how to add paragraph text onto the index page. 
 It was demonstrated how to adjust images that were previously inserted onto a page, by using selectors and attribution values in CSS. 
 
-![Screenshot 2024-07-31 145221](https://github.com/user-attachments/assets/05d3adeb-684c-4dc1-a243-c08d7b0fbfe2)
-![wallet](https://github.com/user-attachments/assets/a63033c6-b6ae-4038-a2ac-a9e2587c8860)
-![Screenshot 2024-07-31 145808](https://github.com/user-attachments/assets/901b4c8d-f53e-436a-9e3d-8146b37d8b82)
-![Screenshot 2024-07-31 145701](https://github.com/user-attachments/assets/af8737fa-1c36-4397-80af-4145c53aec6e)
-![Screenshot 2024-07-31 145459](https://github.com/user-attachments/assets/6b189840-3e5f-4aa6-88a5-172a710fcef1)
-![Screenshot 2024-07-31 145221](https://github.com/user-attachments/assets/319a9482-7f85-4506-807c-47f775476607)
-
+ ![Screenshot 2024-07-31 151120](https://github.com/user-attachments/assets/7879ab72-3d07-47c0-8032-00e2b27b1f6d)
+![Screenshot 2024-07-31 151033](https://github.com/user-attachments/assets/9a8d8913-1c2e-4af3-bf17-216eb351ff85)
+![Screenshot 2024-07-31 150927](https://github.com/user-attachments/assets/e3207c0b-d19e-47fa-b704-f70dd9c1e64b)
+![Screenshot 2024-07-31 145459](https://github.com/user-attachments/assets/be1be88b-23b4-4e0a-817b-77392dc442ac)
+![wallet](https://github.com/user-attachments/assets/9682f566-3668-418f-99ce-c2c30c98e854)
+![Screenshot 2024-07-31 153107](https://github.com/user-attachments/assets/ba041369-09a5-4f53-a206-81bb6c25a962)
+![Screenshot 2024-07-31 152942](https://github.com/user-attachments/assets/9d8b6280-5cc1-453f-a225-327e47776c08)
+![Screenshot 2024-07-31 145808](https://github.com/user-attachments/assets/aa07079e-0b6e-4a19-890e-8365512ff284)
+![Screenshot 2024-07-31 153159](https://github.com/user-attachments/assets/44a4691c-3ef2-44d3-bc6a-f86cdac49e88)
