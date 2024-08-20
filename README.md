@@ -27,13 +27,13 @@ It was demonstrated how to adjust images that were previously inserted onto a pa
 #Create Products tables in SQL
 Using PhpmyAdmin database software including creating columns and selecting titles and values
 -Database categories
-categories, and integrate this with the php code.![Uploading red.png…]()
+categories, and integrate this with the php code. ![Uploading Screenshot 2024-08-20 201653.png…]()
 
 Link the website's products dynamically using the SQL database.
 
 ![Screenshot 2024-08-20 155913](https://github.com/user-attachments/assets/12c4bec3-2bd6-4bc7-8764-09c647d98edc)
 ![Screenshot 2024-08-08 173741](https://github.com/user-attachments/assets/bda5fb61-93dd-4930-992d-d4b91c3a93f1)
-![Screenshot 2024-08-07 182824](https://github.com/user-attachments/assets/77348464-9e93-456f-a5cc-7f4603be9758)
+
 ![create](https://github.com/user-attachments/assets/7461035f-8def-4edf-9f22-8cd9f24f6783)
 
 
