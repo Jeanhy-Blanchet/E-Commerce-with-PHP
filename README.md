@@ -24,6 +24,20 @@ You learned how to add styles and selectors in the css file, and the importance 
 You learned how to add paragraph text onto the index page. 
 It was demonstrated how to adjust images that were previously inserted onto a page, by using selectors and attribution values in CSS. 
 
+#Create Products tables in SQL
+Using PhpmyAdmin database software including creating columns and selecting titles and values
+-Database categories
+categories, and integrate this with the php code.![Uploading red.png…]()
+
+Link the website's products dynamically using the SQL database.
+
+![Screenshot 2024-08-20 155913](https://github.com/user-attachments/assets/12c4bec3-2bd6-4bc7-8764-09c647d98edc)
+![Screenshot 2024-08-08 173741](https://github.com/user-attachments/assets/bda5fb61-93dd-4930-992d-d4b91c3a93f1)
+![Screenshot 2024-08-07 182824](https://github.com/user-attachments/assets/77348464-9e93-456f-a5cc-7f4603be9758)
+![create](https://github.com/user-attachments/assets/7461035f-8def-4edf-9f22-8cd9f24f6783)
+
+
+
  ![Screenshot 2024-07-31 151120](https://github.com/user-attachments/assets/7879ab72-3d07-47c0-8032-00e2b27b1f6d)
 ![Screenshot 2024-07-31 151033](https://github.com/user-attachments/assets/9a8d8913-1c2e-4af3-bf17-216eb351ff85)
 ![Screenshot 2024-07-31 150927](https://github.com/user-attachments/assets/e3207c0b-d19e-47fa-b704-f70dd9c1e64b)
